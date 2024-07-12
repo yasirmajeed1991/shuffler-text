@@ -1,4 +1,4 @@
-# Text Shuffler
+# Shuffler Text
 
 **Text Shuffler** is a powerful WordPress plugin designed to enhance your text manipulation capabilities. With a wide range of features, it allows you to generate, format, shuffle, sort, edit, and analyze text effortlessly. This plugin is perfect for content creators, developers, and anyone who needs advanced text handling on their WordPress site.
 
